@@ -1,7 +1,3 @@
-Below is a professional and concise **README.md** file for your GitHub repository, describing the key aspects of your data science project on smartphone data analysis. It covers the web scraping, data cleaning, exploratory data analysis (EDA), predictive modeling, and dashboard components from your Python scripts, while highlighting the project's objectives, features, and usage instructions. The tone is professional yet approachable, tailored for a GitHub audience (e.g., developers, data scientists, or recruiters). The README is structured to showcase your work clearly and encourage engagement, with sections for project overview, features, installation, usage, and more.
-
----
-
 # Smartphone Price Analysis and Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
