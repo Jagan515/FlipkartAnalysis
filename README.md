@@ -1,5 +1,6 @@
 # Smartphone Price Analysis and Prediction
 
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository contains a comprehensive data science project focused on analyzing smartphone data scraped from Flipkart, one of India's leading e-commerce platforms. The project leverages web scraping, data cleaning, exploratory data analysis (EDA), machine learning, and interactive visualization to uncover market trends and predict smartphone prices. By combining Python's powerful libraries with a user-friendly dashboard, this project offers valuable insights for consumers, retailers, and tech enthusiasts.
