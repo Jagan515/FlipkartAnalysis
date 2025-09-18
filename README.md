@@ -158,7 +158,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-Please ensure code adheres to PEP 8 standards and includes clear comments.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -170,27 +169,6 @@ For questions or feedback, reach out via:
 
 Happy analyzing, and enjoy exploring the smartphone market!
 
----
-
-### Notes for You
-- **Customization**:
-  - **Username**: Replace `Jagan515` with your GitHub username in the clone URL and contact section.
-  - **Email**: Update the contact email or remove it if preferred.
-  - **Data Files**: Noted that raw data isn’t included due to ethical concerns, but you can add sample data or regenerate it. If you want to include data, I can adjust the wording.
-  - **License**: Assumed MIT License (common for open-source projects). If you prefer another (e.g., Apache, GPL), let me know!
-- **Content**:
-  - Covers all key points: scraping, cleaning, EDA, modeling, dashboard.
-  - Highlights objectives, results, and future scope to showcase your work.
-  - Includes installation/usage instructions for reproducibility.
-  - Adds badges for visual appeal (Python version, license, status).
-- **GitHub Readiness**:
-  - Formatted in Markdown for direct use as `README.md`.
-  - Structured for clarity with table of contents and concise sections.
-  - Encourages contributions to make the repo collaborative.
-- **Screenshots/Plots**: You can enhance the README by adding visualizations (e.g., price histogram, dashboard screenshot) under Results. To do this, save plots locally (e.g., `plt.savefig('price_dist.png')`), upload them to the repo, and link them like `![Price Distribution](plots/price_dist.png)`. Let me know if you need help!
-- **Requirements File**: I included a sample `requirements.txt`. You can generate an actual one by running `pip freeze > requirements.txt` in your environment and uploading it to the repo.
-
-### Steps to Upload to GitHub
 1. **Create a Repository**:
    - Go to GitHub, click “New Repository,” name it (e.g., `FlipkartAnalysis`), and initialize with a README (optional).
 2. **Add Files**:
