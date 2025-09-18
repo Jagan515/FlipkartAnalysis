@@ -168,21 +168,3 @@ For questions or feedback, reach out via:
 - **Email**: jaganp515@gmail.com 
 
 Happy analyzing, and enjoy exploring the smartphone market!
-
-1. **Create a Repository**:
-   - Go to GitHub, click “New Repository,” name it (e.g., `FlipkartAnalysis`), and initialize with a README (optional).
-2. **Add Files**:
-   - Upload `scraper.py`, `analysis.py`, `requirements.txt`, and any sample outputs (e.g., `checkclean_final.xlsx` if sharing).
-   - Copy the above README text into `README.md` or overwrite the default one.
-3. **Commit and Push**:
-   - If using Git locally:
-     ```bash
-     git init
-     git add .
-     git commit -m "Initial commit with smartphone price analysis project"
-     git remote add origin https://github.com/Jagan515/FlipkartAnalysis
-     git push -u origin main
-     ```
-   - Or upload files directly via GitHub’s web interface.
-4. **Verify**: Check the repo online to ensure the README renders correctly and all files are present.
-
