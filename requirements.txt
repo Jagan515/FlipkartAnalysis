@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+urllib3
+numpy
+seaborn
+matplotlib
+wordcloud
+scikit-learn
+dash
+plotly

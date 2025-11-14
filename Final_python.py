@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
-import seaborn as sns
+import seaborn as sns # pyright: ignore[reportMissingModuleSource]
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from sklearn.linear_model import LinearRegression
