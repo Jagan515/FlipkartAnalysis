@@ -6,7 +6,7 @@ This repository contains a comprehensive data science project focused on analyzi
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Features](#features)
+- [Features](#features) 
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
