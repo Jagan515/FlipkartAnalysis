@@ -27,7 +27,7 @@ descriptions = []
 reviews = []
 prices = []
 ratings = []
-
+#HI
 for page in range(1, 60):
     #url = f"https://www.flipkart.com/search?q=phones+under+50000&page={page}"
     url=f"https://www.flipkart.com/search?q=phones&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&sort=recency_desc&page={page}"
