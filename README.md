@@ -11,7 +11,7 @@ This repository contains a comprehensive data science project focused on analyzi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Results](#results)
+- [Results](#results) 
 - [Future Scope](#future-scope)
 - [Contributing](#contributing)
 - [License](#license)
